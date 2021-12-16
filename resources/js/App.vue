@@ -1,0 +1,15 @@
+<template>
+    <v-app class="theme--dark">
+        <router-view></router-view>
+    </v-app>
+</template>
+
+<script>
+export default {
+    name: "App"
+}
+</script>
+
+<style scoped>
+
+</style>
